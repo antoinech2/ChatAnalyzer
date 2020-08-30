@@ -1,0 +1,36 @@
+# For an explanation of the different attributes, see:
+# https://matplotlib.org/tutorials/introductory/customizing.html#customizing-with-matplotlibrc-files
+
+axes.titlepad : 15
+axes.titleweight : bold
+axes.titlesize : x-large
+axes.xmargin : 0
+axes.ymargin : 0
+axes.spines.top : False
+axes.spines.right : False
+axes.axisbelow : True
+axes.labelsize : medium
+
+figure.subplot.hspace : 0.25
+
+font.family : sans-serif
+font.size : 8
+
+grid.color : eeeeee
+
+legend.loc : best
+legend.frameon : False
+legend.fontsize : large
+legend.handletextpad: 2
+
+lines.solid_capstyle : butt
+lines.linewidth : 3
+
+xtick.major.pad : 10
+xtick.major.size : 5
+xtick.labelsize : medium
+
+ytick.major.pad : 10
+ytick.major.size : 5
+ytick.labelsize : medium
+
